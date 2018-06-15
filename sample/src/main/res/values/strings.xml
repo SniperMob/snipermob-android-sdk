@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SniperMob Ad Sample</string>
+    <string name="tips_permission">Please Grant All Permissions.</string>
+    <string name="tips_load_show">Show</string>
+    <string name="tips_ad_show">Banner|Native|Video AdView will show below Here.</string>
+    <string-array name="ad_type">
+        <item>Banner</item>
+        <item>Interstitial</item>
+        <item>Native(Small)</item>
+        <item>Native(Medium)</item>
+        <item>Native(Large)</item>
+    </string-array>
+</resources>
